@@ -10,4 +10,5 @@ Don't mess up with copying and pasting the sources of the images! All are groupe
 Keep all paths to your files in one convenient place!
 
 ## Also important!
--This project is made only for training/educational purposes. I do not own any of the images!
+This project is made only for training/educational purposes. I do not own any of the images!
+Do not use it for commercial purposes!
